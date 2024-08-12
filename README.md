@@ -1,4 +1,4 @@
-# Social Media Web Site
+# Social Media Website
 
 In this project I designed a simple website where we can find publications published by users, each user has his profile and what publications he liked, same for the publication it contains its category and the number of likes it gained.
 I implemented object-oriented programming in PHP and relational databases (MySQL connection) to establish the diffrents mechanism of the back-end, html and css for the front-end.
